@@ -49,6 +49,7 @@
         color: var(--text-color);
         background-color: var(--main-bg);
         padding: .75rem;
+        min-height: 100dvh;
     }
 }
 
